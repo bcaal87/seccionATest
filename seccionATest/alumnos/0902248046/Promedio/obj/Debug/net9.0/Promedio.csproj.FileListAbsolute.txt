@@ -1,0 +1,14 @@
+C:\Users\RAYDC\Desktop\UMG\PracticasGit\PARCIAL 1 PROGRA II RAYDC\seccionATest\alumnos\0902248046\Promedio\bin\Debug\net9.0\Promedio.exe
+C:\Users\RAYDC\Desktop\UMG\PracticasGit\PARCIAL 1 PROGRA II RAYDC\seccionATest\alumnos\0902248046\Promedio\bin\Debug\net9.0\Promedio.deps.json
+C:\Users\RAYDC\Desktop\UMG\PracticasGit\PARCIAL 1 PROGRA II RAYDC\seccionATest\alumnos\0902248046\Promedio\bin\Debug\net9.0\Promedio.runtimeconfig.json
+C:\Users\RAYDC\Desktop\UMG\PracticasGit\PARCIAL 1 PROGRA II RAYDC\seccionATest\alumnos\0902248046\Promedio\bin\Debug\net9.0\Promedio.dll
+C:\Users\RAYDC\Desktop\UMG\PracticasGit\PARCIAL 1 PROGRA II RAYDC\seccionATest\alumnos\0902248046\Promedio\bin\Debug\net9.0\Promedio.pdb
+C:\Users\RAYDC\Desktop\UMG\PracticasGit\PARCIAL 1 PROGRA II RAYDC\seccionATest\alumnos\0902248046\Promedio\obj\Debug\net9.0\Promedio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RAYDC\Desktop\UMG\PracticasGit\PARCIAL 1 PROGRA II RAYDC\seccionATest\alumnos\0902248046\Promedio\obj\Debug\net9.0\Promedio.AssemblyInfoInputs.cache
+C:\Users\RAYDC\Desktop\UMG\PracticasGit\PARCIAL 1 PROGRA II RAYDC\seccionATest\alumnos\0902248046\Promedio\obj\Debug\net9.0\Promedio.AssemblyInfo.cs
+C:\Users\RAYDC\Desktop\UMG\PracticasGit\PARCIAL 1 PROGRA II RAYDC\seccionATest\alumnos\0902248046\Promedio\obj\Debug\net9.0\Promedio.csproj.CoreCompileInputs.cache
+C:\Users\RAYDC\Desktop\UMG\PracticasGit\PARCIAL 1 PROGRA II RAYDC\seccionATest\alumnos\0902248046\Promedio\obj\Debug\net9.0\Promedio.dll
+C:\Users\RAYDC\Desktop\UMG\PracticasGit\PARCIAL 1 PROGRA II RAYDC\seccionATest\alumnos\0902248046\Promedio\obj\Debug\net9.0\refint\Promedio.dll
+C:\Users\RAYDC\Desktop\UMG\PracticasGit\PARCIAL 1 PROGRA II RAYDC\seccionATest\alumnos\0902248046\Promedio\obj\Debug\net9.0\Promedio.pdb
+C:\Users\RAYDC\Desktop\UMG\PracticasGit\PARCIAL 1 PROGRA II RAYDC\seccionATest\alumnos\0902248046\Promedio\obj\Debug\net9.0\Promedio.genruntimeconfig.cache
+C:\Users\RAYDC\Desktop\UMG\PracticasGit\PARCIAL 1 PROGRA II RAYDC\seccionATest\alumnos\0902248046\Promedio\obj\Debug\net9.0\ref\Promedio.dll
