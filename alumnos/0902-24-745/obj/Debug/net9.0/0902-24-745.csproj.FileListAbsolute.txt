@@ -1,0 +1,15 @@
+C:\Users\Axel\Documents\Parcial1\seccionATest\alumnos\0902-24-745\bin\Debug\net9.0\0902-24-745.exe
+C:\Users\Axel\Documents\Parcial1\seccionATest\alumnos\0902-24-745\bin\Debug\net9.0\0902-24-745.deps.json
+C:\Users\Axel\Documents\Parcial1\seccionATest\alumnos\0902-24-745\bin\Debug\net9.0\0902-24-745.runtimeconfig.json
+C:\Users\Axel\Documents\Parcial1\seccionATest\alumnos\0902-24-745\bin\Debug\net9.0\0902-24-745.dll
+C:\Users\Axel\Documents\Parcial1\seccionATest\alumnos\0902-24-745\bin\Debug\net9.0\0902-24-745.pdb
+C:\Users\Axel\Documents\Parcial1\seccionATest\alumnos\0902-24-745\obj\Debug\net9.0\0902-24-745.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Axel\Documents\Parcial1\seccionATest\alumnos\0902-24-745\obj\Debug\net9.0\0902-24-745.AssemblyInfoInputs.cache
+C:\Users\Axel\Documents\Parcial1\seccionATest\alumnos\0902-24-745\obj\Debug\net9.0\0902-24-745.AssemblyInfo.cs
+C:\Users\Axel\Documents\Parcial1\seccionATest\alumnos\0902-24-745\obj\Debug\net9.0\0902-24-745.csproj.CoreCompileInputs.cache
+C:\Users\Axel\Documents\Parcial1\seccionATest\alumnos\0902-24-745\obj\Debug\net9.0\0902-24-745.sourcelink.json
+C:\Users\Axel\Documents\Parcial1\seccionATest\alumnos\0902-24-745\obj\Debug\net9.0\0902-24-745.dll
+C:\Users\Axel\Documents\Parcial1\seccionATest\alumnos\0902-24-745\obj\Debug\net9.0\refint\0902-24-745.dll
+C:\Users\Axel\Documents\Parcial1\seccionATest\alumnos\0902-24-745\obj\Debug\net9.0\0902-24-745.pdb
+C:\Users\Axel\Documents\Parcial1\seccionATest\alumnos\0902-24-745\obj\Debug\net9.0\0902-24-745.genruntimeconfig.cache
+C:\Users\Axel\Documents\Parcial1\seccionATest\alumnos\0902-24-745\obj\Debug\net9.0\ref\0902-24-745.dll
