@@ -1,0 +1,15 @@
+C:\Users\milia\Desktop\EXAMEN PROGRA2\seccionATest\alumnos\0902-24-20164\examen_progra2\bin\Debug\net9.0\examen_progra2.exe
+C:\Users\milia\Desktop\EXAMEN PROGRA2\seccionATest\alumnos\0902-24-20164\examen_progra2\bin\Debug\net9.0\examen_progra2.deps.json
+C:\Users\milia\Desktop\EXAMEN PROGRA2\seccionATest\alumnos\0902-24-20164\examen_progra2\bin\Debug\net9.0\examen_progra2.runtimeconfig.json
+C:\Users\milia\Desktop\EXAMEN PROGRA2\seccionATest\alumnos\0902-24-20164\examen_progra2\bin\Debug\net9.0\examen_progra2.dll
+C:\Users\milia\Desktop\EXAMEN PROGRA2\seccionATest\alumnos\0902-24-20164\examen_progra2\bin\Debug\net9.0\examen_progra2.pdb
+C:\Users\milia\Desktop\EXAMEN PROGRA2\seccionATest\alumnos\0902-24-20164\examen_progra2\obj\Debug\net9.0\examen_progra2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\milia\Desktop\EXAMEN PROGRA2\seccionATest\alumnos\0902-24-20164\examen_progra2\obj\Debug\net9.0\examen_progra2.AssemblyInfoInputs.cache
+C:\Users\milia\Desktop\EXAMEN PROGRA2\seccionATest\alumnos\0902-24-20164\examen_progra2\obj\Debug\net9.0\examen_progra2.AssemblyInfo.cs
+C:\Users\milia\Desktop\EXAMEN PROGRA2\seccionATest\alumnos\0902-24-20164\examen_progra2\obj\Debug\net9.0\examen_progra2.csproj.CoreCompileInputs.cache
+C:\Users\milia\Desktop\EXAMEN PROGRA2\seccionATest\alumnos\0902-24-20164\examen_progra2\obj\Debug\net9.0\examen_progra2.sourcelink.json
+C:\Users\milia\Desktop\EXAMEN PROGRA2\seccionATest\alumnos\0902-24-20164\examen_progra2\obj\Debug\net9.0\examen_progra2.dll
+C:\Users\milia\Desktop\EXAMEN PROGRA2\seccionATest\alumnos\0902-24-20164\examen_progra2\obj\Debug\net9.0\refint\examen_progra2.dll
+C:\Users\milia\Desktop\EXAMEN PROGRA2\seccionATest\alumnos\0902-24-20164\examen_progra2\obj\Debug\net9.0\examen_progra2.pdb
+C:\Users\milia\Desktop\EXAMEN PROGRA2\seccionATest\alumnos\0902-24-20164\examen_progra2\obj\Debug\net9.0\examen_progra2.genruntimeconfig.cache
+C:\Users\milia\Desktop\EXAMEN PROGRA2\seccionATest\alumnos\0902-24-20164\examen_progra2\obj\Debug\net9.0\ref\examen_progra2.dll
