@@ -1,0 +1,15 @@
+C:\Users\yeison U\Desktop\umg2025\Parcial\seccionATest\alumnos\0902-24-478\PromedioApp\bin\Debug\net9.0\PromedioApp.exe
+C:\Users\yeison U\Desktop\umg2025\Parcial\seccionATest\alumnos\0902-24-478\PromedioApp\bin\Debug\net9.0\PromedioApp.deps.json
+C:\Users\yeison U\Desktop\umg2025\Parcial\seccionATest\alumnos\0902-24-478\PromedioApp\bin\Debug\net9.0\PromedioApp.runtimeconfig.json
+C:\Users\yeison U\Desktop\umg2025\Parcial\seccionATest\alumnos\0902-24-478\PromedioApp\bin\Debug\net9.0\PromedioApp.dll
+C:\Users\yeison U\Desktop\umg2025\Parcial\seccionATest\alumnos\0902-24-478\PromedioApp\bin\Debug\net9.0\PromedioApp.pdb
+C:\Users\yeison U\Desktop\umg2025\Parcial\seccionATest\alumnos\0902-24-478\PromedioApp\obj\Debug\net9.0\PromedioApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yeison U\Desktop\umg2025\Parcial\seccionATest\alumnos\0902-24-478\PromedioApp\obj\Debug\net9.0\PromedioApp.AssemblyInfoInputs.cache
+C:\Users\yeison U\Desktop\umg2025\Parcial\seccionATest\alumnos\0902-24-478\PromedioApp\obj\Debug\net9.0\PromedioApp.AssemblyInfo.cs
+C:\Users\yeison U\Desktop\umg2025\Parcial\seccionATest\alumnos\0902-24-478\PromedioApp\obj\Debug\net9.0\PromedioApp.csproj.CoreCompileInputs.cache
+C:\Users\yeison U\Desktop\umg2025\Parcial\seccionATest\alumnos\0902-24-478\PromedioApp\obj\Debug\net9.0\PromedioApp.sourcelink.json
+C:\Users\yeison U\Desktop\umg2025\Parcial\seccionATest\alumnos\0902-24-478\PromedioApp\obj\Debug\net9.0\PromedioApp.dll
+C:\Users\yeison U\Desktop\umg2025\Parcial\seccionATest\alumnos\0902-24-478\PromedioApp\obj\Debug\net9.0\refint\PromedioApp.dll
+C:\Users\yeison U\Desktop\umg2025\Parcial\seccionATest\alumnos\0902-24-478\PromedioApp\obj\Debug\net9.0\PromedioApp.pdb
+C:\Users\yeison U\Desktop\umg2025\Parcial\seccionATest\alumnos\0902-24-478\PromedioApp\obj\Debug\net9.0\PromedioApp.genruntimeconfig.cache
+C:\Users\yeison U\Desktop\umg2025\Parcial\seccionATest\alumnos\0902-24-478\PromedioApp\obj\Debug\net9.0\ref\PromedioApp.dll
