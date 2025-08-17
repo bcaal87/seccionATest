@@ -1,0 +1,15 @@
+C:\Users\Alexander\Desktop\parcialAlexander\seccionATest\alumnos\0902-22-5414\bin\Debug\net8.0\0902-22-5414.exe
+C:\Users\Alexander\Desktop\parcialAlexander\seccionATest\alumnos\0902-22-5414\bin\Debug\net8.0\0902-22-5414.deps.json
+C:\Users\Alexander\Desktop\parcialAlexander\seccionATest\alumnos\0902-22-5414\bin\Debug\net8.0\0902-22-5414.runtimeconfig.json
+C:\Users\Alexander\Desktop\parcialAlexander\seccionATest\alumnos\0902-22-5414\bin\Debug\net8.0\0902-22-5414.dll
+C:\Users\Alexander\Desktop\parcialAlexander\seccionATest\alumnos\0902-22-5414\bin\Debug\net8.0\0902-22-5414.pdb
+C:\Users\Alexander\Desktop\parcialAlexander\seccionATest\alumnos\0902-22-5414\obj\Debug\net8.0\0902-22-5414.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexander\Desktop\parcialAlexander\seccionATest\alumnos\0902-22-5414\obj\Debug\net8.0\0902-22-5414.AssemblyInfoInputs.cache
+C:\Users\Alexander\Desktop\parcialAlexander\seccionATest\alumnos\0902-22-5414\obj\Debug\net8.0\0902-22-5414.AssemblyInfo.cs
+C:\Users\Alexander\Desktop\parcialAlexander\seccionATest\alumnos\0902-22-5414\obj\Debug\net8.0\0902-22-5414.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\Desktop\parcialAlexander\seccionATest\alumnos\0902-22-5414\obj\Debug\net8.0\0902-22-5414.sourcelink.json
+C:\Users\Alexander\Desktop\parcialAlexander\seccionATest\alumnos\0902-22-5414\obj\Debug\net8.0\0902-22-5414.dll
+C:\Users\Alexander\Desktop\parcialAlexander\seccionATest\alumnos\0902-22-5414\obj\Debug\net8.0\refint\0902-22-5414.dll
+C:\Users\Alexander\Desktop\parcialAlexander\seccionATest\alumnos\0902-22-5414\obj\Debug\net8.0\0902-22-5414.pdb
+C:\Users\Alexander\Desktop\parcialAlexander\seccionATest\alumnos\0902-22-5414\obj\Debug\net8.0\0902-22-5414.genruntimeconfig.cache
+C:\Users\Alexander\Desktop\parcialAlexander\seccionATest\alumnos\0902-22-5414\obj\Debug\net8.0\ref\0902-22-5414.dll
