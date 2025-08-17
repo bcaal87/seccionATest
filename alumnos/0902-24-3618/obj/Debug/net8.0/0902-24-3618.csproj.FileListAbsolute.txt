@@ -1,0 +1,15 @@
+C:\Users\eliza\Desktop\PROGA2\PARCIAL1\seccionATest\alumnos\0902-24-3618\bin\Debug\net8.0\0902-24-3618.exe
+C:\Users\eliza\Desktop\PROGA2\PARCIAL1\seccionATest\alumnos\0902-24-3618\bin\Debug\net8.0\0902-24-3618.deps.json
+C:\Users\eliza\Desktop\PROGA2\PARCIAL1\seccionATest\alumnos\0902-24-3618\bin\Debug\net8.0\0902-24-3618.runtimeconfig.json
+C:\Users\eliza\Desktop\PROGA2\PARCIAL1\seccionATest\alumnos\0902-24-3618\bin\Debug\net8.0\0902-24-3618.dll
+C:\Users\eliza\Desktop\PROGA2\PARCIAL1\seccionATest\alumnos\0902-24-3618\bin\Debug\net8.0\0902-24-3618.pdb
+C:\Users\eliza\Desktop\PROGA2\PARCIAL1\seccionATest\alumnos\0902-24-3618\obj\Debug\net8.0\0902-24-3618.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eliza\Desktop\PROGA2\PARCIAL1\seccionATest\alumnos\0902-24-3618\obj\Debug\net8.0\0902-24-3618.AssemblyInfoInputs.cache
+C:\Users\eliza\Desktop\PROGA2\PARCIAL1\seccionATest\alumnos\0902-24-3618\obj\Debug\net8.0\0902-24-3618.AssemblyInfo.cs
+C:\Users\eliza\Desktop\PROGA2\PARCIAL1\seccionATest\alumnos\0902-24-3618\obj\Debug\net8.0\0902-24-3618.csproj.CoreCompileInputs.cache
+C:\Users\eliza\Desktop\PROGA2\PARCIAL1\seccionATest\alumnos\0902-24-3618\obj\Debug\net8.0\0902-24-3618.sourcelink.json
+C:\Users\eliza\Desktop\PROGA2\PARCIAL1\seccionATest\alumnos\0902-24-3618\obj\Debug\net8.0\0902-24-3618.dll
+C:\Users\eliza\Desktop\PROGA2\PARCIAL1\seccionATest\alumnos\0902-24-3618\obj\Debug\net8.0\refint\0902-24-3618.dll
+C:\Users\eliza\Desktop\PROGA2\PARCIAL1\seccionATest\alumnos\0902-24-3618\obj\Debug\net8.0\0902-24-3618.pdb
+C:\Users\eliza\Desktop\PROGA2\PARCIAL1\seccionATest\alumnos\0902-24-3618\obj\Debug\net8.0\0902-24-3618.genruntimeconfig.cache
+C:\Users\eliza\Desktop\PROGA2\PARCIAL1\seccionATest\alumnos\0902-24-3618\obj\Debug\net8.0\ref\0902-24-3618.dll
