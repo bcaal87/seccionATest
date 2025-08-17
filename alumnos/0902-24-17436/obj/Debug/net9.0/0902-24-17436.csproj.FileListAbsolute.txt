@@ -1,0 +1,15 @@
+C:\Users\Caquinam\Desktop\Programación2\parcialprogra\alumnos\0902-24-17436\bin\Debug\net9.0\0902-24-17436.exe
+C:\Users\Caquinam\Desktop\Programación2\parcialprogra\alumnos\0902-24-17436\bin\Debug\net9.0\0902-24-17436.deps.json
+C:\Users\Caquinam\Desktop\Programación2\parcialprogra\alumnos\0902-24-17436\bin\Debug\net9.0\0902-24-17436.runtimeconfig.json
+C:\Users\Caquinam\Desktop\Programación2\parcialprogra\alumnos\0902-24-17436\bin\Debug\net9.0\0902-24-17436.dll
+C:\Users\Caquinam\Desktop\Programación2\parcialprogra\alumnos\0902-24-17436\bin\Debug\net9.0\0902-24-17436.pdb
+C:\Users\Caquinam\Desktop\Programación2\parcialprogra\alumnos\0902-24-17436\obj\Debug\net9.0\0902-24-17436.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caquinam\Desktop\Programación2\parcialprogra\alumnos\0902-24-17436\obj\Debug\net9.0\0902-24-17436.AssemblyInfoInputs.cache
+C:\Users\Caquinam\Desktop\Programación2\parcialprogra\alumnos\0902-24-17436\obj\Debug\net9.0\0902-24-17436.AssemblyInfo.cs
+C:\Users\Caquinam\Desktop\Programación2\parcialprogra\alumnos\0902-24-17436\obj\Debug\net9.0\0902-24-17436.csproj.CoreCompileInputs.cache
+C:\Users\Caquinam\Desktop\Programación2\parcialprogra\alumnos\0902-24-17436\obj\Debug\net9.0\0902-24-17436.sourcelink.json
+C:\Users\Caquinam\Desktop\Programación2\parcialprogra\alumnos\0902-24-17436\obj\Debug\net9.0\0902-24-17436.dll
+C:\Users\Caquinam\Desktop\Programación2\parcialprogra\alumnos\0902-24-17436\obj\Debug\net9.0\refint\0902-24-17436.dll
+C:\Users\Caquinam\Desktop\Programación2\parcialprogra\alumnos\0902-24-17436\obj\Debug\net9.0\0902-24-17436.pdb
+C:\Users\Caquinam\Desktop\Programación2\parcialprogra\alumnos\0902-24-17436\obj\Debug\net9.0\0902-24-17436.genruntimeconfig.cache
+C:\Users\Caquinam\Desktop\Programación2\parcialprogra\alumnos\0902-24-17436\obj\Debug\net9.0\ref\0902-24-17436.dll
