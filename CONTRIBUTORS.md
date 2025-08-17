@@ -12,7 +12,7 @@ Agregue su nombre y carnet aquí al entregar su solución.
 Eduardo Coc - carnet: 0902-24-7727
 
 \- JOSEPH RUBEN DARIO PAAU CAAL 0902-24-7707 :D
-
+\- Jimmy Balam Kitze Coc Bá 0902-24-7989
 \-José Rodolfo Chen - Carnet: 09021913160
 =======
 

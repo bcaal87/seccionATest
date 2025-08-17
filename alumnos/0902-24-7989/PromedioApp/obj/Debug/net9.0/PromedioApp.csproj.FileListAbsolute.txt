@@ -1,0 +1,15 @@
+C:\Users\jimmy\Desktop\seccionATest\alumnos\0902-24-7989\PromedioApp\bin\Debug\net9.0\PromedioApp.exe
+C:\Users\jimmy\Desktop\seccionATest\alumnos\0902-24-7989\PromedioApp\bin\Debug\net9.0\PromedioApp.deps.json
+C:\Users\jimmy\Desktop\seccionATest\alumnos\0902-24-7989\PromedioApp\bin\Debug\net9.0\PromedioApp.runtimeconfig.json
+C:\Users\jimmy\Desktop\seccionATest\alumnos\0902-24-7989\PromedioApp\bin\Debug\net9.0\PromedioApp.dll
+C:\Users\jimmy\Desktop\seccionATest\alumnos\0902-24-7989\PromedioApp\bin\Debug\net9.0\PromedioApp.pdb
+C:\Users\jimmy\Desktop\seccionATest\alumnos\0902-24-7989\PromedioApp\obj\Debug\net9.0\PromedioApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jimmy\Desktop\seccionATest\alumnos\0902-24-7989\PromedioApp\obj\Debug\net9.0\PromedioApp.AssemblyInfoInputs.cache
+C:\Users\jimmy\Desktop\seccionATest\alumnos\0902-24-7989\PromedioApp\obj\Debug\net9.0\PromedioApp.AssemblyInfo.cs
+C:\Users\jimmy\Desktop\seccionATest\alumnos\0902-24-7989\PromedioApp\obj\Debug\net9.0\PromedioApp.csproj.CoreCompileInputs.cache
+C:\Users\jimmy\Desktop\seccionATest\alumnos\0902-24-7989\PromedioApp\obj\Debug\net9.0\PromedioApp.sourcelink.json
+C:\Users\jimmy\Desktop\seccionATest\alumnos\0902-24-7989\PromedioApp\obj\Debug\net9.0\PromedioApp.dll
+C:\Users\jimmy\Desktop\seccionATest\alumnos\0902-24-7989\PromedioApp\obj\Debug\net9.0\refint\PromedioApp.dll
+C:\Users\jimmy\Desktop\seccionATest\alumnos\0902-24-7989\PromedioApp\obj\Debug\net9.0\PromedioApp.pdb
+C:\Users\jimmy\Desktop\seccionATest\alumnos\0902-24-7989\PromedioApp\obj\Debug\net9.0\PromedioApp.genruntimeconfig.cache
+C:\Users\jimmy\Desktop\seccionATest\alumnos\0902-24-7989\PromedioApp\obj\Debug\net9.0\ref\PromedioApp.dll
