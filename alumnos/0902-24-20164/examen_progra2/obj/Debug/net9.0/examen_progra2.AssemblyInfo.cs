@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("examen_progra2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+495cc734990e2ffa7e981f6006aef97b84276c3e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4110e45a728d201943933fd9ebbae2e7918b6a89")]
 [assembly: System.Reflection.AssemblyProductAttribute("examen_progra2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("examen_progra2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

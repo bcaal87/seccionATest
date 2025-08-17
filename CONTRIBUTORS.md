@@ -1,3 +1,2 @@
 # Contributors
-Agregue su nombre y carnet aquí al entregar su solución.
-
+Andersson Alexander Cú Milián 0902-24-20164
