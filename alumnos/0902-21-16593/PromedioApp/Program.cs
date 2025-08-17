@@ -1,4 +1,7 @@
 ﻿//Calculadora de promedios
+// José Luis Alexander Choc Cuc
+// Carnet: 0902-21-16593
+// Sección "A"
 using System;
 using Microsoft.VisualBasic;
 
