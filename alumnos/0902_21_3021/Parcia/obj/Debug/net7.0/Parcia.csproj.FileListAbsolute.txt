@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\parcial\seccionATest\alumnos\0902_21_3021\Parcia\bin\Debug\net7.0\Parcia.exe
+C:\Users\HP\Desktop\parcial\seccionATest\alumnos\0902_21_3021\Parcia\bin\Debug\net7.0\Parcia.deps.json
+C:\Users\HP\Desktop\parcial\seccionATest\alumnos\0902_21_3021\Parcia\bin\Debug\net7.0\Parcia.runtimeconfig.json
+C:\Users\HP\Desktop\parcial\seccionATest\alumnos\0902_21_3021\Parcia\bin\Debug\net7.0\Parcia.dll
+C:\Users\HP\Desktop\parcial\seccionATest\alumnos\0902_21_3021\Parcia\bin\Debug\net7.0\Parcia.pdb
+C:\Users\HP\Desktop\parcial\seccionATest\alumnos\0902_21_3021\Parcia\obj\Debug\net7.0\Parcia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\parcial\seccionATest\alumnos\0902_21_3021\Parcia\obj\Debug\net7.0\Parcia.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\parcial\seccionATest\alumnos\0902_21_3021\Parcia\obj\Debug\net7.0\Parcia.AssemblyInfo.cs
+C:\Users\HP\Desktop\parcial\seccionATest\alumnos\0902_21_3021\Parcia\obj\Debug\net7.0\Parcia.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\parcial\seccionATest\alumnos\0902_21_3021\Parcia\obj\Debug\net7.0\Parcia.dll
+C:\Users\HP\Desktop\parcial\seccionATest\alumnos\0902_21_3021\Parcia\obj\Debug\net7.0\refint\Parcia.dll
+C:\Users\HP\Desktop\parcial\seccionATest\alumnos\0902_21_3021\Parcia\obj\Debug\net7.0\Parcia.pdb
+C:\Users\HP\Desktop\parcial\seccionATest\alumnos\0902_21_3021\Parcia\obj\Debug\net7.0\Parcia.genruntimeconfig.cache
+C:\Users\HP\Desktop\parcial\seccionATest\alumnos\0902_21_3021\Parcia\obj\Debug\net7.0\ref\Parcia.dll
