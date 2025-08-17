@@ -1,0 +1,15 @@
+D:\UMG PROGRA\PARCIAL I PROGRA II\seccionATest\alumnos\0902-21-16593\PromedioApp\bin\Debug\net9.0\PromedioApp.exe
+D:\UMG PROGRA\PARCIAL I PROGRA II\seccionATest\alumnos\0902-21-16593\PromedioApp\bin\Debug\net9.0\PromedioApp.deps.json
+D:\UMG PROGRA\PARCIAL I PROGRA II\seccionATest\alumnos\0902-21-16593\PromedioApp\bin\Debug\net9.0\PromedioApp.runtimeconfig.json
+D:\UMG PROGRA\PARCIAL I PROGRA II\seccionATest\alumnos\0902-21-16593\PromedioApp\bin\Debug\net9.0\PromedioApp.dll
+D:\UMG PROGRA\PARCIAL I PROGRA II\seccionATest\alumnos\0902-21-16593\PromedioApp\bin\Debug\net9.0\PromedioApp.pdb
+D:\UMG PROGRA\PARCIAL I PROGRA II\seccionATest\alumnos\0902-21-16593\PromedioApp\obj\Debug\net9.0\PromedioApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\UMG PROGRA\PARCIAL I PROGRA II\seccionATest\alumnos\0902-21-16593\PromedioApp\obj\Debug\net9.0\PromedioApp.AssemblyInfoInputs.cache
+D:\UMG PROGRA\PARCIAL I PROGRA II\seccionATest\alumnos\0902-21-16593\PromedioApp\obj\Debug\net9.0\PromedioApp.AssemblyInfo.cs
+D:\UMG PROGRA\PARCIAL I PROGRA II\seccionATest\alumnos\0902-21-16593\PromedioApp\obj\Debug\net9.0\PromedioApp.csproj.CoreCompileInputs.cache
+D:\UMG PROGRA\PARCIAL I PROGRA II\seccionATest\alumnos\0902-21-16593\PromedioApp\obj\Debug\net9.0\PromedioApp.sourcelink.json
+D:\UMG PROGRA\PARCIAL I PROGRA II\seccionATest\alumnos\0902-21-16593\PromedioApp\obj\Debug\net9.0\PromedioApp.dll
+D:\UMG PROGRA\PARCIAL I PROGRA II\seccionATest\alumnos\0902-21-16593\PromedioApp\obj\Debug\net9.0\refint\PromedioApp.dll
+D:\UMG PROGRA\PARCIAL I PROGRA II\seccionATest\alumnos\0902-21-16593\PromedioApp\obj\Debug\net9.0\PromedioApp.pdb
+D:\UMG PROGRA\PARCIAL I PROGRA II\seccionATest\alumnos\0902-21-16593\PromedioApp\obj\Debug\net9.0\PromedioApp.genruntimeconfig.cache
+D:\UMG PROGRA\PARCIAL I PROGRA II\seccionATest\alumnos\0902-21-16593\PromedioApp\obj\Debug\net9.0\ref\PromedioApp.dll

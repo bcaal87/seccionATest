@@ -16,3 +16,8 @@ Eduardo Coc - carnet: 0902-24-7727
 \-José Rodolfo Chen - Carnet: 09021913160
 =======
 
+<<<<<<< HEAD
+José Rodolfo Chen - Carnet: 09021913160
+José Luis Alexander Choc Cuc - Carnet: 0902-21-16593
+=======
+>>>>>>> 29109adb52a6ce5dde33f43010edf79bcbf206f8
