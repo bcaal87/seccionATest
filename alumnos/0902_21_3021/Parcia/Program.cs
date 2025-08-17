@@ -49,6 +49,6 @@ class Program
         Console.WriteLine($"\nEl promedio de los números ingresados es:  {promedio:F2}");
     }
 }
-//final jeje
+//final 
 
 
