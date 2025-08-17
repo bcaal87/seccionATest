@@ -14,7 +14,5 @@ Eduardo Coc - carnet: 0902-24-7727
 \- JOSEPH RUBEN DARIO PAAU CAAL 0902-24-7707 :D
 
 \-José Rodolfo Chen - Carnet: 09021913160
-
-\-Bryan Daniel Caal Sacbá - Carnet: 0902-24-17436
 =======
 
