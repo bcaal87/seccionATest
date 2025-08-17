@@ -1,0 +1,15 @@
+C:\Users\Nuevo Usuario\Desktop\ParcialProgra\seccionATest\alumnos\0902-24-7715\bin\Debug\net9.0\0902-24-7715.exe
+C:\Users\Nuevo Usuario\Desktop\ParcialProgra\seccionATest\alumnos\0902-24-7715\bin\Debug\net9.0\0902-24-7715.deps.json
+C:\Users\Nuevo Usuario\Desktop\ParcialProgra\seccionATest\alumnos\0902-24-7715\bin\Debug\net9.0\0902-24-7715.runtimeconfig.json
+C:\Users\Nuevo Usuario\Desktop\ParcialProgra\seccionATest\alumnos\0902-24-7715\bin\Debug\net9.0\0902-24-7715.dll
+C:\Users\Nuevo Usuario\Desktop\ParcialProgra\seccionATest\alumnos\0902-24-7715\bin\Debug\net9.0\0902-24-7715.pdb
+C:\Users\Nuevo Usuario\Desktop\ParcialProgra\seccionATest\alumnos\0902-24-7715\obj\Debug\net9.0\0902-24-7715.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nuevo Usuario\Desktop\ParcialProgra\seccionATest\alumnos\0902-24-7715\obj\Debug\net9.0\0902-24-7715.AssemblyInfoInputs.cache
+C:\Users\Nuevo Usuario\Desktop\ParcialProgra\seccionATest\alumnos\0902-24-7715\obj\Debug\net9.0\0902-24-7715.AssemblyInfo.cs
+C:\Users\Nuevo Usuario\Desktop\ParcialProgra\seccionATest\alumnos\0902-24-7715\obj\Debug\net9.0\0902-24-7715.csproj.CoreCompileInputs.cache
+C:\Users\Nuevo Usuario\Desktop\ParcialProgra\seccionATest\alumnos\0902-24-7715\obj\Debug\net9.0\0902-24-7715.sourcelink.json
+C:\Users\Nuevo Usuario\Desktop\ParcialProgra\seccionATest\alumnos\0902-24-7715\obj\Debug\net9.0\0902-24-7715.dll
+C:\Users\Nuevo Usuario\Desktop\ParcialProgra\seccionATest\alumnos\0902-24-7715\obj\Debug\net9.0\refint\0902-24-7715.dll
+C:\Users\Nuevo Usuario\Desktop\ParcialProgra\seccionATest\alumnos\0902-24-7715\obj\Debug\net9.0\0902-24-7715.pdb
+C:\Users\Nuevo Usuario\Desktop\ParcialProgra\seccionATest\alumnos\0902-24-7715\obj\Debug\net9.0\0902-24-7715.genruntimeconfig.cache
+C:\Users\Nuevo Usuario\Desktop\ParcialProgra\seccionATest\alumnos\0902-24-7715\obj\Debug\net9.0\ref\0902-24-7715.dll
