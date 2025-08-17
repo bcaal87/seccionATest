@@ -1,0 +1,9 @@
+# Archivos de compilación
+bin/
+obj/
+
+# Archivos de usuario
+*.user
+*.suo
+*.cache
+*.log
