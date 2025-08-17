@@ -1,13 +1,23 @@
 # Contributors
 
 Agregue su nombre y carnet aquí al entregar su solución.
-Cliberson Alexander Pop Quej. Carnet: 0902-24-2275
+=======
+
+=======
+Agregue su nombre y carnet aquí al entregar su solución.
 
 
+<<<<<<< HEAD
 \- Luis Pacay — Carnet: 0902-23-6634
 Eduardo Coc - carnet: 0902-24-7727
 
+\- JOSEPH RUBEN DARIO PAAU CAAL 0902-24-7707 :D
 
+\-José Rodolfo Chen - Carnet: 09021913160
+=======
 
+<<<<<<< HEAD
 José Rodolfo Chen - Carnet: 09021913160
 José Luis Alexander Choc Cuc - Carnet: 0902-21-16593
+=======
+>>>>>>> 29109adb52a6ce5dde33f43010edf79bcbf206f8

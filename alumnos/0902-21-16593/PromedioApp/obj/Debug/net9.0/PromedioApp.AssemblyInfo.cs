@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PromedioApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2e9ec886186006fc63034b1acba1c8cd45a574b2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+57c3520cbeaa756c6e87ee83c62e0f8c719d32d2")]
 [assembly: System.Reflection.AssemblyProductAttribute("PromedioApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PromedioApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
