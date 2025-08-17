@@ -1,0 +1,14 @@
+C:\Users\Rony\Desktop\nuevoIntneto\seccionATest\alumnos\0902-24-4875\bin\Debug\net9.0\0902-24-4875.exe
+C:\Users\Rony\Desktop\nuevoIntneto\seccionATest\alumnos\0902-24-4875\bin\Debug\net9.0\0902-24-4875.deps.json
+C:\Users\Rony\Desktop\nuevoIntneto\seccionATest\alumnos\0902-24-4875\bin\Debug\net9.0\0902-24-4875.runtimeconfig.json
+C:\Users\Rony\Desktop\nuevoIntneto\seccionATest\alumnos\0902-24-4875\bin\Debug\net9.0\0902-24-4875.dll
+C:\Users\Rony\Desktop\nuevoIntneto\seccionATest\alumnos\0902-24-4875\bin\Debug\net9.0\0902-24-4875.pdb
+C:\Users\Rony\Desktop\nuevoIntneto\seccionATest\alumnos\0902-24-4875\obj\Debug\net9.0\0902-24-4875.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rony\Desktop\nuevoIntneto\seccionATest\alumnos\0902-24-4875\obj\Debug\net9.0\0902-24-4875.AssemblyInfoInputs.cache
+C:\Users\Rony\Desktop\nuevoIntneto\seccionATest\alumnos\0902-24-4875\obj\Debug\net9.0\0902-24-4875.AssemblyInfo.cs
+C:\Users\Rony\Desktop\nuevoIntneto\seccionATest\alumnos\0902-24-4875\obj\Debug\net9.0\0902-24-4875.csproj.CoreCompileInputs.cache
+C:\Users\Rony\Desktop\nuevoIntneto\seccionATest\alumnos\0902-24-4875\obj\Debug\net9.0\0902-24-4875.dll
+C:\Users\Rony\Desktop\nuevoIntneto\seccionATest\alumnos\0902-24-4875\obj\Debug\net9.0\refint\0902-24-4875.dll
+C:\Users\Rony\Desktop\nuevoIntneto\seccionATest\alumnos\0902-24-4875\obj\Debug\net9.0\0902-24-4875.pdb
+C:\Users\Rony\Desktop\nuevoIntneto\seccionATest\alumnos\0902-24-4875\obj\Debug\net9.0\0902-24-4875.genruntimeconfig.cache
+C:\Users\Rony\Desktop\nuevoIntneto\seccionATest\alumnos\0902-24-4875\obj\Debug\net9.0\ref\0902-24-4875.dll
