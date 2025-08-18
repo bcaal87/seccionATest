@@ -12,3 +12,11 @@ C:\Users\josep\Desktop\0902-22-21617\obj\Debug\net9.0\refint\0902-22-21617.dll
 C:\Users\josep\Desktop\0902-22-21617\obj\Debug\net9.0\0902-22-21617.pdb
 C:\Users\josep\Desktop\0902-22-21617\obj\Debug\net9.0\0902-22-21617.genruntimeconfig.cache
 C:\Users\josep\Desktop\0902-22-21617\obj\Debug\net9.0\ref\0902-22-21617.dll
+C:\Users\franc\Desktop\Francisco-Chen\obj\Debug\net9.0\0902-22-21617.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franc\Desktop\Francisco-Chen\obj\Debug\net9.0\0902-22-21617.AssemblyInfoInputs.cache
+C:\Users\franc\Desktop\Francisco-Chen\obj\Debug\net9.0\0902-22-21617.AssemblyInfo.cs
+C:\Users\franc\Desktop\Francisco-Chen\obj\Debug\net9.0\0902-22-21617.csproj.CoreCompileInputs.cache
+C:\Users\franc\Desktop\Francisco-Chen\obj\Debug\net9.0\0902-22-21617.sourcelink.json
+C:\Users\franc\Desktop\Francisco-Chen\obj\Debug\net9.0\0902-22-21617.dll
+C:\Users\franc\Desktop\Francisco-Chen\obj\Debug\net9.0\refint\0902-22-21617.dll
+C:\Users\franc\Desktop\Francisco-Chen\obj\Debug\net9.0\0902-22-21617.pdb
