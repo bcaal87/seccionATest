@@ -1,0 +1,15 @@
+C:\Users\omarc\OneDrive\Escritorio\parcial1\seccionATest\alumnos\0902-23-23142\Parcialomar\bin\Debug\net9.0\Parcialomar.exe
+C:\Users\omarc\OneDrive\Escritorio\parcial1\seccionATest\alumnos\0902-23-23142\Parcialomar\bin\Debug\net9.0\Parcialomar.deps.json
+C:\Users\omarc\OneDrive\Escritorio\parcial1\seccionATest\alumnos\0902-23-23142\Parcialomar\bin\Debug\net9.0\Parcialomar.runtimeconfig.json
+C:\Users\omarc\OneDrive\Escritorio\parcial1\seccionATest\alumnos\0902-23-23142\Parcialomar\bin\Debug\net9.0\Parcialomar.dll
+C:\Users\omarc\OneDrive\Escritorio\parcial1\seccionATest\alumnos\0902-23-23142\Parcialomar\bin\Debug\net9.0\Parcialomar.pdb
+C:\Users\omarc\OneDrive\Escritorio\parcial1\seccionATest\alumnos\0902-23-23142\Parcialomar\obj\Debug\net9.0\Parcialomar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omarc\OneDrive\Escritorio\parcial1\seccionATest\alumnos\0902-23-23142\Parcialomar\obj\Debug\net9.0\Parcialomar.AssemblyInfoInputs.cache
+C:\Users\omarc\OneDrive\Escritorio\parcial1\seccionATest\alumnos\0902-23-23142\Parcialomar\obj\Debug\net9.0\Parcialomar.AssemblyInfo.cs
+C:\Users\omarc\OneDrive\Escritorio\parcial1\seccionATest\alumnos\0902-23-23142\Parcialomar\obj\Debug\net9.0\Parcialomar.csproj.CoreCompileInputs.cache
+C:\Users\omarc\OneDrive\Escritorio\parcial1\seccionATest\alumnos\0902-23-23142\Parcialomar\obj\Debug\net9.0\Parcialomar.sourcelink.json
+C:\Users\omarc\OneDrive\Escritorio\parcial1\seccionATest\alumnos\0902-23-23142\Parcialomar\obj\Debug\net9.0\Parcialomar.dll
+C:\Users\omarc\OneDrive\Escritorio\parcial1\seccionATest\alumnos\0902-23-23142\Parcialomar\obj\Debug\net9.0\refint\Parcialomar.dll
+C:\Users\omarc\OneDrive\Escritorio\parcial1\seccionATest\alumnos\0902-23-23142\Parcialomar\obj\Debug\net9.0\Parcialomar.pdb
+C:\Users\omarc\OneDrive\Escritorio\parcial1\seccionATest\alumnos\0902-23-23142\Parcialomar\obj\Debug\net9.0\Parcialomar.genruntimeconfig.cache
+C:\Users\omarc\OneDrive\Escritorio\parcial1\seccionATest\alumnos\0902-23-23142\Parcialomar\obj\Debug\net9.0\ref\Parcialomar.dll
