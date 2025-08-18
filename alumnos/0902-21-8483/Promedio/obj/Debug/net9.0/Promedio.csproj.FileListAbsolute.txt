@@ -1,0 +1,15 @@
+C:\Users\HP\Documents\Progra2\primer-parcial\seccionATest\alumnos\0902-21-8483\Promedio\bin\Debug\net9.0\Promedio.exe
+C:\Users\HP\Documents\Progra2\primer-parcial\seccionATest\alumnos\0902-21-8483\Promedio\bin\Debug\net9.0\Promedio.deps.json
+C:\Users\HP\Documents\Progra2\primer-parcial\seccionATest\alumnos\0902-21-8483\Promedio\bin\Debug\net9.0\Promedio.runtimeconfig.json
+C:\Users\HP\Documents\Progra2\primer-parcial\seccionATest\alumnos\0902-21-8483\Promedio\bin\Debug\net9.0\Promedio.dll
+C:\Users\HP\Documents\Progra2\primer-parcial\seccionATest\alumnos\0902-21-8483\Promedio\bin\Debug\net9.0\Promedio.pdb
+C:\Users\HP\Documents\Progra2\primer-parcial\seccionATest\alumnos\0902-21-8483\Promedio\obj\Debug\net9.0\Promedio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\Progra2\primer-parcial\seccionATest\alumnos\0902-21-8483\Promedio\obj\Debug\net9.0\Promedio.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\Progra2\primer-parcial\seccionATest\alumnos\0902-21-8483\Promedio\obj\Debug\net9.0\Promedio.AssemblyInfo.cs
+C:\Users\HP\Documents\Progra2\primer-parcial\seccionATest\alumnos\0902-21-8483\Promedio\obj\Debug\net9.0\Promedio.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\Progra2\primer-parcial\seccionATest\alumnos\0902-21-8483\Promedio\obj\Debug\net9.0\Promedio.sourcelink.json
+C:\Users\HP\Documents\Progra2\primer-parcial\seccionATest\alumnos\0902-21-8483\Promedio\obj\Debug\net9.0\Promedio.dll
+C:\Users\HP\Documents\Progra2\primer-parcial\seccionATest\alumnos\0902-21-8483\Promedio\obj\Debug\net9.0\refint\Promedio.dll
+C:\Users\HP\Documents\Progra2\primer-parcial\seccionATest\alumnos\0902-21-8483\Promedio\obj\Debug\net9.0\Promedio.pdb
+C:\Users\HP\Documents\Progra2\primer-parcial\seccionATest\alumnos\0902-21-8483\Promedio\obj\Debug\net9.0\Promedio.genruntimeconfig.cache
+C:\Users\HP\Documents\Progra2\primer-parcial\seccionATest\alumnos\0902-21-8483\Promedio\obj\Debug\net9.0\ref\Promedio.dll
