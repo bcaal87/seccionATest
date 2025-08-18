@@ -1,0 +1,15 @@
+C:\Users\denis\OneDrive\Escritorio\Parcial1\seccionATest\alumnos\0902-24-16265\Promedio\bin\Debug\net9.0\Promedio.exe
+C:\Users\denis\OneDrive\Escritorio\Parcial1\seccionATest\alumnos\0902-24-16265\Promedio\bin\Debug\net9.0\Promedio.deps.json
+C:\Users\denis\OneDrive\Escritorio\Parcial1\seccionATest\alumnos\0902-24-16265\Promedio\bin\Debug\net9.0\Promedio.runtimeconfig.json
+C:\Users\denis\OneDrive\Escritorio\Parcial1\seccionATest\alumnos\0902-24-16265\Promedio\bin\Debug\net9.0\Promedio.dll
+C:\Users\denis\OneDrive\Escritorio\Parcial1\seccionATest\alumnos\0902-24-16265\Promedio\bin\Debug\net9.0\Promedio.pdb
+C:\Users\denis\OneDrive\Escritorio\Parcial1\seccionATest\alumnos\0902-24-16265\Promedio\obj\Debug\net9.0\Promedio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\denis\OneDrive\Escritorio\Parcial1\seccionATest\alumnos\0902-24-16265\Promedio\obj\Debug\net9.0\Promedio.AssemblyInfoInputs.cache
+C:\Users\denis\OneDrive\Escritorio\Parcial1\seccionATest\alumnos\0902-24-16265\Promedio\obj\Debug\net9.0\Promedio.AssemblyInfo.cs
+C:\Users\denis\OneDrive\Escritorio\Parcial1\seccionATest\alumnos\0902-24-16265\Promedio\obj\Debug\net9.0\Promedio.csproj.CoreCompileInputs.cache
+C:\Users\denis\OneDrive\Escritorio\Parcial1\seccionATest\alumnos\0902-24-16265\Promedio\obj\Debug\net9.0\Promedio.sourcelink.json
+C:\Users\denis\OneDrive\Escritorio\Parcial1\seccionATest\alumnos\0902-24-16265\Promedio\obj\Debug\net9.0\Promedio.dll
+C:\Users\denis\OneDrive\Escritorio\Parcial1\seccionATest\alumnos\0902-24-16265\Promedio\obj\Debug\net9.0\refint\Promedio.dll
+C:\Users\denis\OneDrive\Escritorio\Parcial1\seccionATest\alumnos\0902-24-16265\Promedio\obj\Debug\net9.0\Promedio.pdb
+C:\Users\denis\OneDrive\Escritorio\Parcial1\seccionATest\alumnos\0902-24-16265\Promedio\obj\Debug\net9.0\Promedio.genruntimeconfig.cache
+C:\Users\denis\OneDrive\Escritorio\Parcial1\seccionATest\alumnos\0902-24-16265\Promedio\obj\Debug\net9.0\ref\Promedio.dll
