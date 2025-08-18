@@ -1,0 +1,15 @@
+C:\Users\Brayan Sacrab\Desktop\examen git\seccionATest\alumnos\0902-24-10668\PromedioApp\obj\Debug\net9.0\PromedioApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brayan Sacrab\Desktop\examen git\seccionATest\alumnos\0902-24-10668\PromedioApp\obj\Debug\net9.0\PromedioApp.AssemblyInfoInputs.cache
+C:\Users\Brayan Sacrab\Desktop\examen git\seccionATest\alumnos\0902-24-10668\PromedioApp\obj\Debug\net9.0\PromedioApp.AssemblyInfo.cs
+C:\Users\Brayan Sacrab\Desktop\examen git\seccionATest\alumnos\0902-24-10668\PromedioApp\obj\Debug\net9.0\PromedioApp.csproj.CoreCompileInputs.cache
+C:\Users\Brayan Sacrab\Desktop\examen git\seccionATest\alumnos\0902-24-10668\PromedioApp\obj\Debug\net9.0\PromedioApp.sourcelink.json
+C:\Users\Brayan Sacrab\Desktop\examen git\seccionATest\alumnos\0902-24-10668\PromedioApp\bin\Debug\net9.0\PromedioApp.exe
+C:\Users\Brayan Sacrab\Desktop\examen git\seccionATest\alumnos\0902-24-10668\PromedioApp\bin\Debug\net9.0\PromedioApp.deps.json
+C:\Users\Brayan Sacrab\Desktop\examen git\seccionATest\alumnos\0902-24-10668\PromedioApp\bin\Debug\net9.0\PromedioApp.runtimeconfig.json
+C:\Users\Brayan Sacrab\Desktop\examen git\seccionATest\alumnos\0902-24-10668\PromedioApp\bin\Debug\net9.0\PromedioApp.dll
+C:\Users\Brayan Sacrab\Desktop\examen git\seccionATest\alumnos\0902-24-10668\PromedioApp\bin\Debug\net9.0\PromedioApp.pdb
+C:\Users\Brayan Sacrab\Desktop\examen git\seccionATest\alumnos\0902-24-10668\PromedioApp\obj\Debug\net9.0\PromedioApp.dll
+C:\Users\Brayan Sacrab\Desktop\examen git\seccionATest\alumnos\0902-24-10668\PromedioApp\obj\Debug\net9.0\refint\PromedioApp.dll
+C:\Users\Brayan Sacrab\Desktop\examen git\seccionATest\alumnos\0902-24-10668\PromedioApp\obj\Debug\net9.0\PromedioApp.pdb
+C:\Users\Brayan Sacrab\Desktop\examen git\seccionATest\alumnos\0902-24-10668\PromedioApp\obj\Debug\net9.0\PromedioApp.genruntimeconfig.cache
+C:\Users\Brayan Sacrab\Desktop\examen git\seccionATest\alumnos\0902-24-10668\PromedioApp\obj\Debug\net9.0\ref\PromedioApp.dll
