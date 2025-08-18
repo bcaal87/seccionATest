@@ -1,0 +1,15 @@
+C:\Users\franc\Desktop\Francisco-Chen\alumnos\0902-24-15392\bin\Debug\net9.0\0902-24-15392.exe
+C:\Users\franc\Desktop\Francisco-Chen\alumnos\0902-24-15392\bin\Debug\net9.0\0902-24-15392.deps.json
+C:\Users\franc\Desktop\Francisco-Chen\alumnos\0902-24-15392\bin\Debug\net9.0\0902-24-15392.runtimeconfig.json
+C:\Users\franc\Desktop\Francisco-Chen\alumnos\0902-24-15392\bin\Debug\net9.0\0902-24-15392.dll
+C:\Users\franc\Desktop\Francisco-Chen\alumnos\0902-24-15392\bin\Debug\net9.0\0902-24-15392.pdb
+C:\Users\franc\Desktop\Francisco-Chen\alumnos\0902-24-15392\obj\Debug\net9.0\0902-24-15392.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franc\Desktop\Francisco-Chen\alumnos\0902-24-15392\obj\Debug\net9.0\0902-24-15392.AssemblyInfoInputs.cache
+C:\Users\franc\Desktop\Francisco-Chen\alumnos\0902-24-15392\obj\Debug\net9.0\0902-24-15392.AssemblyInfo.cs
+C:\Users\franc\Desktop\Francisco-Chen\alumnos\0902-24-15392\obj\Debug\net9.0\0902-24-15392.csproj.CoreCompileInputs.cache
+C:\Users\franc\Desktop\Francisco-Chen\alumnos\0902-24-15392\obj\Debug\net9.0\0902-24-15392.sourcelink.json
+C:\Users\franc\Desktop\Francisco-Chen\alumnos\0902-24-15392\obj\Debug\net9.0\0902-24-15392.dll
+C:\Users\franc\Desktop\Francisco-Chen\alumnos\0902-24-15392\obj\Debug\net9.0\refint\0902-24-15392.dll
+C:\Users\franc\Desktop\Francisco-Chen\alumnos\0902-24-15392\obj\Debug\net9.0\0902-24-15392.pdb
+C:\Users\franc\Desktop\Francisco-Chen\alumnos\0902-24-15392\obj\Debug\net9.0\0902-24-15392.genruntimeconfig.cache
+C:\Users\franc\Desktop\Francisco-Chen\alumnos\0902-24-15392\obj\Debug\net9.0\ref\0902-24-15392.dll
