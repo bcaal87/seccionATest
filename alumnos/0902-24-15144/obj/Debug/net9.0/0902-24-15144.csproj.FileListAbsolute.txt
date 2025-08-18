@@ -1,0 +1,15 @@
+C:\Users\DELL\Desktop\TAREA-PROGRA-2\seccionATest\alumnos\0902-24-15144\bin\Debug\net9.0\0902-24-15144.exe
+C:\Users\DELL\Desktop\TAREA-PROGRA-2\seccionATest\alumnos\0902-24-15144\bin\Debug\net9.0\0902-24-15144.deps.json
+C:\Users\DELL\Desktop\TAREA-PROGRA-2\seccionATest\alumnos\0902-24-15144\bin\Debug\net9.0\0902-24-15144.runtimeconfig.json
+C:\Users\DELL\Desktop\TAREA-PROGRA-2\seccionATest\alumnos\0902-24-15144\bin\Debug\net9.0\0902-24-15144.dll
+C:\Users\DELL\Desktop\TAREA-PROGRA-2\seccionATest\alumnos\0902-24-15144\bin\Debug\net9.0\0902-24-15144.pdb
+C:\Users\DELL\Desktop\TAREA-PROGRA-2\seccionATest\alumnos\0902-24-15144\obj\Debug\net9.0\0902-24-15144.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\TAREA-PROGRA-2\seccionATest\alumnos\0902-24-15144\obj\Debug\net9.0\0902-24-15144.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\TAREA-PROGRA-2\seccionATest\alumnos\0902-24-15144\obj\Debug\net9.0\0902-24-15144.AssemblyInfo.cs
+C:\Users\DELL\Desktop\TAREA-PROGRA-2\seccionATest\alumnos\0902-24-15144\obj\Debug\net9.0\0902-24-15144.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\TAREA-PROGRA-2\seccionATest\alumnos\0902-24-15144\obj\Debug\net9.0\0902-24-15144.sourcelink.json
+C:\Users\DELL\Desktop\TAREA-PROGRA-2\seccionATest\alumnos\0902-24-15144\obj\Debug\net9.0\0902-24-15144.dll
+C:\Users\DELL\Desktop\TAREA-PROGRA-2\seccionATest\alumnos\0902-24-15144\obj\Debug\net9.0\refint\0902-24-15144.dll
+C:\Users\DELL\Desktop\TAREA-PROGRA-2\seccionATest\alumnos\0902-24-15144\obj\Debug\net9.0\0902-24-15144.pdb
+C:\Users\DELL\Desktop\TAREA-PROGRA-2\seccionATest\alumnos\0902-24-15144\obj\Debug\net9.0\0902-24-15144.genruntimeconfig.cache
+C:\Users\DELL\Desktop\TAREA-PROGRA-2\seccionATest\alumnos\0902-24-15144\obj\Debug\net9.0\ref\0902-24-15144.dll
