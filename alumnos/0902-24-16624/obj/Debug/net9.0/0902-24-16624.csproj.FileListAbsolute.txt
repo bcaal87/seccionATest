@@ -1,0 +1,15 @@
+C:\Users\DELL\Desktop\progra2\alumnos\0902-24-16624\bin\Debug\net9.0\0902-24-16624.exe
+C:\Users\DELL\Desktop\progra2\alumnos\0902-24-16624\bin\Debug\net9.0\0902-24-16624.deps.json
+C:\Users\DELL\Desktop\progra2\alumnos\0902-24-16624\bin\Debug\net9.0\0902-24-16624.runtimeconfig.json
+C:\Users\DELL\Desktop\progra2\alumnos\0902-24-16624\bin\Debug\net9.0\0902-24-16624.dll
+C:\Users\DELL\Desktop\progra2\alumnos\0902-24-16624\bin\Debug\net9.0\0902-24-16624.pdb
+C:\Users\DELL\Desktop\progra2\alumnos\0902-24-16624\obj\Debug\net9.0\0902-24-16624.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\progra2\alumnos\0902-24-16624\obj\Debug\net9.0\0902-24-16624.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\progra2\alumnos\0902-24-16624\obj\Debug\net9.0\0902-24-16624.AssemblyInfo.cs
+C:\Users\DELL\Desktop\progra2\alumnos\0902-24-16624\obj\Debug\net9.0\0902-24-16624.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\progra2\alumnos\0902-24-16624\obj\Debug\net9.0\0902-24-16624.sourcelink.json
+C:\Users\DELL\Desktop\progra2\alumnos\0902-24-16624\obj\Debug\net9.0\0902-24-16624.dll
+C:\Users\DELL\Desktop\progra2\alumnos\0902-24-16624\obj\Debug\net9.0\refint\0902-24-16624.dll
+C:\Users\DELL\Desktop\progra2\alumnos\0902-24-16624\obj\Debug\net9.0\0902-24-16624.pdb
+C:\Users\DELL\Desktop\progra2\alumnos\0902-24-16624\obj\Debug\net9.0\0902-24-16624.genruntimeconfig.cache
+C:\Users\DELL\Desktop\progra2\alumnos\0902-24-16624\obj\Debug\net9.0\ref\0902-24-16624.dll
